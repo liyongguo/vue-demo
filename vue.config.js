@@ -3,7 +3,7 @@
  */
 const config = {
   outputDir: 'dist',
-  publicPath: process.env.NODE_ENV === 'production' ? '/': '/'
+  publicPath: process.env.NODE_ENV === 'production' ? '/vue-demo': '/'
 }
 
 module.exports = config
